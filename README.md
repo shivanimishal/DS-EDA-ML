@@ -70,6 +70,7 @@ An in-depth macroeconomic analysis project visualizing the world's economic heal
 * 📈 Regression (Linear & Logistic) and Tree-Based Models (Decision Trees & Random Forests)
 * 🎯 Classification & Clustering techniques (KNN, SVM, and K-Means)
 * 🗣️ Advanced Topics: Natural Language Processing (NLP), Neural Networks, and Deep Learning
+* 🐘 Big Data Analysis utilizing Spark
 
 ---
 *Feel free to explore the notebooks and reach out if you have any questions or collaboration ideas!*
