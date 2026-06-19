@@ -1,4 +1,4 @@
-# 📊 Data Science, EDA & Machine Learning Portfolio
+# 📊 DS, EDA & ML Portfolio
 
 ---
 
@@ -15,15 +15,18 @@ A dynamic, real-time geospatial visualization project tracking key environmental
 
 **🌡️ Live Temperature Map (°C)**
 > Visualizes real-time heat distribution across states (Red = Hotter, Blue = Colder).
-![India Temperature Map](images/newplot.png)
+> <img width="950" height="1150" alt="newplot" src="https://github.com/user-attachments/assets/a173cd4c-7998-4fcf-97ed-e60dada5a146" />
+
 
 **🌫️ Live Air Quality Index (US-AQI)**
 > Tracks pollution levels across the country (Red = Polluted, Green = Clean).
-![India AQI Map](images/newplot2.png)
+<img width="950" height="1150" alt="newplot2" src="https://github.com/user-attachments/assets/2fe5d62c-88bb-4f02-9a90-4da0d85187bf" />
+
 
 **🌧️ Year-To-Date Rainfall (mm)**
 > Shows cumulative rainfall tracking to identify wet vs. dry regions (Dark Blue = Wetter).
-![India Rainfall Map](images/newplot3.png)
+<img width="950" height="1150" alt="newplot3" src="https://github.com/user-attachments/assets/81fd2b1c-54cd-4f66-982e-dd074bdcdb18" />
+
 
 ---
 
@@ -40,10 +43,12 @@ An in-depth macroeconomic analysis project visualizing the world's economic heal
 ### 📸 Project Snapshots
 
 **💰 World GDP - Latest Actuals (2024)**
-![Global GDP 2024](images/image_671f40.png)
+<img width="1415" height="808" alt="image" src="https://github.com/user-attachments/assets/998a0062-71fb-443d-9956-0d2896451846" />
+
 
 **📈 GDP Growth Rate Forecast (2031)**
-![Global GDP Growth Forecast](images/image_6721e5.png)
+<img width="1402" height="766" alt="image" src="https://github.com/user-attachments/assets/d120040d-d950-4ed3-8267-ffb8b9e144c8" />
+
 
 ---
 
